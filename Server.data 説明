@@ -1,0 +1,11 @@
+index = D:\Zisty\Site\ja\index.html
+get blog = D:\Zisty\site\ja\blog\index.html
+get status = D:\Zisty\site\ja\status\index.html
+
+The index of this file is
+localhost:4567
+Specify the file path to return when accessed.
+get blog is
+localhost:4567/blog
+Specify the file path to return when accessed.
+This is a file for describing server settings.
