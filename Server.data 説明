@@ -1,7 +1,11 @@
-index = D:\Zisty\サイト\ja\index.html
-get blog = D:\Zisty\サイト\ja\blog\index.html
-get status = D:\Zisty\サイト\ja\status\index.html
+index = D:\Zisty\Site\ja\index.html
+get blog = D:\Zisty\site\ja\blog\index.html
+get status = D:\Zisty\site\ja\status\index.html
 
-This file specifies the file path to return when accessed at localhost:4567 for the index.
-The 'get blog' directive specifies the file path to return when accessed at localhost:4567/blog.
-This file is used to configure the server settings.
+The index of this file is
+localhost:4567
+Specify the file path to return when accessed.
+get blog is
+localhost:4567/blog
+Specify the file path to return when accessed.
+This is a file for describing server settings.
